@@ -1,0 +1,1 @@
+This project focuses on analyzing the sentiment of textual data using machine learning techniques. Sentiment analysis involves determining whether a piece of text, such as a review or a social media post, expresses a positive, negative, or neutral sentiment. This README provides a guide to understand, setup, and run the sentiment analysis project
